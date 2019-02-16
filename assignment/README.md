@@ -1,5 +1,10 @@
 # Assignment
 
+### Submission
+- [Figma](https://www.figma.com/file/HKsdSwJw7J2oQfR8zqh8b2Tn/cpln692-week5)
+- [PDF](assignment.pdf)
+- [Image](assignment.png)
+
 ### Overview
 Use [Figma](https://www.figma.com) to recreate the design from one of the list of applications below.
 
