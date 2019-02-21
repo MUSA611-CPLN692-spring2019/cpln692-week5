@@ -477,3 +477,16 @@
 	background: #fff;
 	border: 1px solid #666;
 	}
+
+	.card {
+		background: #fff;
+		border: 1px solid #666;
+		position: relative;
+		left:220px
+		}
+
+.header{
+	position:absolute;
+	background: #fff;
+	height:40px
+}
