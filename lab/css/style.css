@@ -10,6 +10,24 @@ body {
     font-family: helvetica, arial, sans-serif;
 }
 
+
+.header{
+  position: absolute;
+  font-size: 20px;
+  height: 40px;
+  font-family: monospace;
+  padding: 10px;
+  color: #ddd;
+  background-color: black;
+  z-index: 2;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+
+
+
 .map {
     background-color: #eee;
     position: absolute;
@@ -28,4 +46,21 @@ body {
     width: 400px;
     bottom: 0;
     top: 0;
+}
+
+.card {
+  padding: 20px;
+  margin: 5px;
+  border: 1px #000 solid;
+  position: relative;
+  top: 40px;
+}
+
+.card_active{
+  background-color: lightblue;
+  padding: 20px;
+  margin: 5px;
+  border: 1px #000 solid;
+  position: relative;
+  top: 40px;
 }
