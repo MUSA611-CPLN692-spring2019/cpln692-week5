@@ -10,10 +10,20 @@ body {
     font-family: helvetica, arial, sans-serif;
 }
 
+.header {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    z-index: 2;
+    background-color: #000
+}
+
 .map {
     background-color: #eee;
-    position: absolute;
-    left: 400px;
+    position: relative;
+    left: 300px;
     right: 0;
     bottom: 0;
     top: 0;
@@ -23,9 +33,9 @@ body {
     overflow-y: auto; /* This line allows the sidebar to scroll when there is
                          a lot of content in it */
     background-color: #ccc;
-    position: absolute;
+    position: relative;
     left: 0;
-    width: 400px;
+    width: 300px;
     bottom: 0;
     top: 0;
 }
