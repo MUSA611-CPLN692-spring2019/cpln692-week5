@@ -13,10 +13,10 @@ body {
 .map {
     background-color: #eee;
     position: absolute;
-    left: 400px;
+    left: 300px;
     right: 0;
     bottom: 0;
-    top: 0;
+    top: 50px;
 }
 
 .sidebar {
@@ -27,5 +27,14 @@ body {
     left: 0;
     width: 400px;
     bottom: 0;
-    top: 0;
+    top: 50px;
+}
+.header {
+  height: 50px;
+  width: 400px;
+  top: 0;
+  bottom: 50px;
+  left: 0;
+
+
 }

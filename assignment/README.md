@@ -13,3 +13,5 @@ Use [Figma](https://www.figma.com) to recreate the design from one of the list o
 - Don't worry about replicating logos and other images. But try to replicate colors and components (dropdowns, search inputs, buttons) as closely as you can
 - See how far you can get in 2–3 hours and then feel free to stop, or keep going if you're having fun
 - Using Figma, share your project with Nathan, Ross, and Jeff (j@frankl.org)
+
+https://www.figma.com/file/cDOHRayS7nhdMhhfqjIcCC0n/HW5-ZIXUAN-XU?node-id=0%3A1
