@@ -10,13 +10,46 @@ body {
     font-family: helvetica, arial, sans-serif;
 }
 
+.header {
+  color: #ccc;
+  position: absolute;
+  min-width: 220px;
+  line-height: 60px;
+  height: 60px;
+  overflow: none;
+  top: 0px;
+  width: 100%;
+  z-index: 3000;
+  text-align: left;
+}
+
+.selection-panel {
+  position: absolute;
+  top: 70px;
+  right: 10px;
+  z-index: 4000;
+}
+
+.about {
+  color: #ccc;
+  line-height: 60px;
+  display: block;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  padding: 0px 20px 0px 20px;
+  cursor: pointer;
+  font-size: 13px;
+  z-index: 9000;
+}
+
 .map {
     background-color: #eee;
     position: absolute;
     left: 400px;
     right: 0;
     bottom: 0;
-    top: 0;
+    top: 70px;
 }
 
 .sidebar {
@@ -27,5 +60,5 @@ body {
     left: 0;
     width: 400px;
     bottom: 0;
-    top: 0;
+    top: 70px;
 }
