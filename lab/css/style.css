@@ -10,13 +10,22 @@ body {
     font-family: helvetica, arial, sans-serif;
 }
 
+.header {
+    background-color: #111;
+    position: absolute;
+    hight: 40px;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
 .map {
     background-color: #eee;
     position: absolute;
     left: 400px;
     right: 0;
     bottom: 0;
-    top: 0;
+    top: 40px;
 }
 
 .sidebar {
@@ -27,5 +36,5 @@ body {
     left: 0;
     width: 400px;
     bottom: 0;
-    top: 0;
+    top: 40px;
 }
