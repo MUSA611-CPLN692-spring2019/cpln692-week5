@@ -18,3 +18,5 @@
 ## Homework Assignment
 
 - Complete [Assignment](assignment)
+// recreate the design from global forest watch
+https://www.figma.com/file/WOqGykAuW28FlG3Nx2IRgTpp/ZIXUN-WANG-WEEK-5?node-id=0%3A1
